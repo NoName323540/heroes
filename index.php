@@ -1,6 +1,6 @@
 <?php 
  $data='';
- $filename='viernes.json';
+ $filename='index.json';
 
  if(is_file($filename)){
   $data=file_get_contents($filename);
@@ -15,5 +15,5 @@
   
  );
  file_put_contents($filename, json_encode($json_arr));
- header("Location:http://localhost/4toA/daniel.html")
+ header("Location:http://localhost/4toA/index.html")
 ?>
