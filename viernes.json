@@ -1,0 +1,16 @@
+[
+{
+ "id":"1",
+ "nombre":"Superman",
+ "edad":"47",
+ "identidadsecreta":"Clark Kent",
+ "poderes":"vision Calor, Rayos X, Superfuerza"
+},
+{
+ "id":"2",
+ "nombre":"Batman",
+ "edad":"48",
+ "identidadsecreta":"Bruce  Wane",
+ "poderes":"Tener Dinero"
+}
+]
